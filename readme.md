@@ -1,18 +1,8 @@
-# AUTONOMOUS COMBAT ROBOT
-
-# COURSE CODE: EEE 509 (ELECTRONIC SYSTEM DESIGN)
-
-# LECTURER: DR BRENDA UBOCHI
-
-# DEPT: ELECTRICAL AND ELECTRONICS ENGINEERING
-
-# FACULTY: SCHOOL OF ENGINEERING AND ENGINEERING TECHNOLOGY
-
-# SCHOOL: FEDERAL UNIVERSITY OF TECHNOLOGY, AKURE
+# TITLE: AUTONOMOUS COMBAT ROBOT <br> COURSE CODE: EEE 509 (ELECTRONIC SYSTEM DESIGN) <br> LECTURER: DR BRENDA UBOCHI <br> DEPT: ELECTRICAL AND ELECTRONICS ENGINEERING <br> FACULTY: SCHOOL OF ENGINEERING AND ENGINEERING TECHNOLOGY <br> SCHOOL: FEDERAL UNIVERSITY OF TECHNOLOGY, AKURE
 
 <br>
 
-Orton is an autonomous combat robot that can perform fighting action such as attacking, defending and basic movement operations. The functionality of the autonomous combat robot is reliant on two pivotal components: hardware and software.
+Orton is an autonomous combat robot that can perform fighting action such as attacking, defending and basic movement operations. Orton is autonomous that is, it can perform this actions on it own without any control whatsoever. The functionality of the autonomous combat robot is reliant on two pivotal components: hardware and software.
 
 ## SOFTWARE ARCHITECTURE, PROGRAMMING, AND CONSTRUCTION
 

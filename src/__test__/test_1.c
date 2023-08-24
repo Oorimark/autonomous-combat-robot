@@ -3,6 +3,11 @@
 #include <stdbool.h>
 #include <time.h>
 
+/*
+ TEST 1
+ DESCRIPTION: The test is written to test the detect_attack function. The test was done with random generated numbers
+ as the sensor readings. The generated numbers was confined to a certain threshold
+*/
 /* variables */
 #define DETECT_ATTACK_SENSOR_SENSITIVITY 0.3 //! the lesser the sensitivity as value increase
 #define DETECT_ATTACK_SENSOR_SENSITIVITY_STEP 2
